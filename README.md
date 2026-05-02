@@ -12,11 +12,7 @@ The goal of the project is to transform raw movie metadata into a structured ana
 ## Key Features
 
 * Cleaned and transformed raw movie data using excel and Power Query
-* Built a relational data model with:
-
-  * `Movies` fact table
-  * `MovieGenre` bridge table
-  * `Genres` dimension table
+* Built a relational data model 
 * Created DAX measures for KPIs and analysis
 * Designed an interactive dashboard with slicers and drill-based exploration
 * Used Power BI AI visuals such as:
